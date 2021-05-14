@@ -1,0 +1,12 @@
+ndet 552
+dom_width 70
+src_radius 252
+det_radius 168
+vmaxE0 0.13
+vmaxE1 0.065
+vmaxE2 0.04
+vmax_sinfo 0.2
+scale_data 1
+E0 40
+E1 80
+E2 120
